@@ -1,0 +1,24 @@
+html {
+  font-family: Georgia;
+}
+
+button {
+  color: #ffffff;
+  width: 100px;
+  text-transform: Capitalize;
+  text-decoration: none;
+  background: #3944BC;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  transition: all 0.4s ease 0s;
+}
+
+button:hover {
+  background: #1520A6;
+}
+
+#fact {
+  font-family: serif;
+}
