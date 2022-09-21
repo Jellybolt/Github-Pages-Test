@@ -1,0 +1,13 @@
+.center { text-align: center; }
+.upper { text-transform: uppercase; }
+.small { font-size: small; }
+.medium { font-size: medium; }
+.large { font-size: large; }
+.xlarge { font-size: x-large; }
+.xxlarge { font-size: xx-large; }
+.nogap5 { margin-bottom: -5px; }
+.nogap10 { margin-bottom: -10px; }
+.nogap15 { margin-bottom: -10px; }
+.nogap20 { margin-bottom: -20px; }
+.topp50 { padding-top: 50px; }
+.topp100 { padding-top: 100px; }
